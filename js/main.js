@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', function() {
     var message = document.getElementById('message').value;
     var subject = document.getElementById('email').value;
 
-    var mailtoLink = "mailto:gpatel8@asu.edu" +
+    var mailtoLink = "mailto:gangey.apatel@gmail.com" +
         "?subject=" + encodeURIComponent(subject) +
         "&body=" + encodeURIComponent(message);
 
